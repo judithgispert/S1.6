@@ -8,7 +8,7 @@ public class MixMethods <T> {
 	
 	public String genMixMethod (T arg1, T arg2, String str3) {
 		return arg1 + " - " + arg2 + " - " + str3 + ".";
-		}
+	}
 	
 	
 }
